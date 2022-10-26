@@ -1,3 +1,5 @@
+#this code is based on Python for generating Australian Powerball games
+
 import random
 
 n=input('How many games you want?:')
